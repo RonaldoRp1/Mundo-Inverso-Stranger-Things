@@ -1,6 +1,7 @@
 # Mundo-Inverso-Stranger-Things
 Projeto com html+css+javascrips+banco de dados.
 
+Mostrando sua utilidade e funcionalidade, junto com sua responsividade porém tem limite minimo pois é projeto em tela cheia.
 
 [pagina .webm](https://user-images.githubusercontent.com/103552387/186833910-4b218114-a196-4e06-bf18-5a64d07d7608.webm)
 
